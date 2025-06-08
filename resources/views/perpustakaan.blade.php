@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header">{{ __('Dashboard') }}</div>
+                <div class="card-header">{{ __('Perpustakaan dashboard') }}</div>
 
                 <div class="card-body">
                     <a href="{{ route('perpustakaan.create') }}" class="btn btn-primary">Tambah data</a>
